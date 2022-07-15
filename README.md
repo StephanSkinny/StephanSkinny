@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StephanSkinny
 - 👀 I’m interested in music
 - 🌱 I’m currently learning lilypond
-- 💞️ I’m looking to collaborate on hackily
+- 💞️ I’m looking to collaborate on hacklily
 - 📫 How to reach me ...
 spuet17@gmail.com
 <!---
